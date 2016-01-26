@@ -1,0 +1,14 @@
+{
+  "name": "gallery",
+  "version": "0.0.1",
+  "description": "Some description of gallery",
+  "author": {
+    "name": "mean scaffold"
+  },
+  "mean": "0.5.5",
+  "dependencies": {},
+  "license": "MIT",
+  "scripts": {
+    "postinstall" : "bower install"
+  }
+}
